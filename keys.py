@@ -1,4 +1,6 @@
-ACC_SID="ACabc54465fb61d95b2454864d95b62ae6"
-AUTH_TOKEN="25d84d682fc5de726c09a2921333d59d"
-FROM_NUMBER="+19542105146"
-TO_NUMBER="+64273464016"
+#Create twilio account and fill out the following
+
+ACC_SID=" "
+AUTH_TOKEN=" "
+FROM_NUMBER=" "
+TO_NUMBER=" "
